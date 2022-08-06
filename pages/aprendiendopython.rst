@@ -112,19 +112,19 @@ Documentación oficial sobre Python.
 Apuntes universitarios.
 -----------------------
 
-Universidad de Buenos Aires, Facultad de Ingeniería (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y están disponibles los materiales en la siguiente página:
+Universidad de Buenos Aires, Facultad de Ingeniería (FIUBA) materia "Algoritmos y Programación 1", cátedra Essaya, se utiliza Python y están disponibles los materiales en la siguiente página:
 
 * Página web:
 
-    https://sites.google.com/site/fiuba7540rw/
+    https://algoritmos1rw.ddns.net/
 
 * Apuntes:
 
-    https://sites.google.com/site/fiuba7540rw/home/apunte_7540.pdf
+    https://drive.google.com/file/d/0B0KKEIBDHL7tdEQ3bFZ2M3VrZzA/view?usp=sharing&resourcekey=0-uMkBoDSnoZjQWxDvcBwQ4g
 
 * Ejercicios:
 
-    https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
+    https://drive.google.com/file/d/0B0KKEIBDHL7tSV84TEctUW42Ync/view?usp=sharing&resourcekey=0-YtvJTulequDiS8H6Gc5VQQ
 
 Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
 
